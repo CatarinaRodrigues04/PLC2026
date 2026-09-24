@@ -3,7 +3,7 @@
 - **Nome:** Catarina Alves Rodrigues
 - **ID:** a111491
 - **Foto:** 
-- **Foto:** <img src="foto.JPG" alt="Foto" width="150"/>
+<img src="foto.JPG" alt="Foto" width="150"/>
 
 ## Resumo
 O objetivo deste trabalho é construir uma expressão regular capaz de reconhecer a linguagem de strings binárias que não contêm a substring "001".
