@@ -1,4 +1,4 @@
-# TPC1 - Expressão Regular para Linguagem Binária sem "001"
+# TPC1 - Expressão Regular para Linguagem Binária sem "011"
 
 - **Nome:** Catarina Alves Rodrigues
 - **ID:** a111491
